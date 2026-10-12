@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850468993722",
+    "project_id": "mxcb2026bmovgr2",
+    "storage_bucket": "mxcb2026bmovgr2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850468993722:android:d6eea351e9194c1ee72083",
+        "android_client_info": {
+          "package_name": "com.example.mxcb2026bmovgr2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmJxcCs4WYeXjaIl-HVrJNLXYQ8IeBgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
