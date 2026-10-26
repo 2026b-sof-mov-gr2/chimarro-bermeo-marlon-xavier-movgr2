@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="saludo"><name>Hi world xd!</name></string>
+    <string name="saludo">Hi world xd!</string>
+    <string name="saludo_vertical">H\ni\n\nw\no\nr\nl\nd</string>
+
+    <!-- Colors for English / Default -->
+    <color name="color_texto">#6200EE</color>
+    <color name="color_fondo">#F3E5F5</color>
 </resources>

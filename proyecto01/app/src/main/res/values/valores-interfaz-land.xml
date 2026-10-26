@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="saludo_land">Hola mundo (Landscape)</string>
+
+    <!-- Colors for Landscape mode -->
+    <color name="color_texto_land">#0066CC</color>
+    <color name="color_fondo_land">#E6F2FF</color>
+</resources>

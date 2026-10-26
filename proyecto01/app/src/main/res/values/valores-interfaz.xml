@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="saludo"><name>Hola mundo xd</name></string>
+    <string name="saludo">Hola mundo xd</string>
+    <string name="saludo_vertical">H\no\nl\na\n\nm\nu\nn\nd\no</string>
 
+    <!-- Colors for Portrait / Default -->
+    <color name="color_texto">#6200EE</color>
+    <color name="color_fondo">#F3E5F5</color>
 </resources>
