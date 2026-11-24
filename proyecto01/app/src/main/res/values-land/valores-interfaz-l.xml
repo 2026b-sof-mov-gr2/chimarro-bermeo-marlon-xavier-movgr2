@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="saludo">Hola mundo xd (Landscape)</string>
+    <string name="saludo">Hola mundo (Landscape)</string>
 
-    <!-- Colors for Landscape -->
+    <!-- Colors for Landscape mode -->
     <color name="color_texto">#0066CC</color>
     <color name="color_fondo">#E6F2FF</color>
 </resources>

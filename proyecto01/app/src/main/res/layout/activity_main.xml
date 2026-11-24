@@ -16,7 +16,6 @@
         android:textColor="@color/color_texto"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:rotation="90"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

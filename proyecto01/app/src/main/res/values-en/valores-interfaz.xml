@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="saludo">Hi world xd!</string>
-    <string name="saludo_vertical">H\ni\n\nw\no\nr\nl\nd</string>
+    <string name="saludo">Good day!</string>
 
     <!-- Colors for English / Default -->
     <color name="color_texto">#6200EE</color>
